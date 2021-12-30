@@ -9,7 +9,6 @@ Output:
 ________________________________________________________________________________________________________________________ 
 
 *QDA Model for Direction~Lag1 + Lag2 on Nasdaq*
-
 The confusion matrix suggests that on days when it predicts an increase in the market, it has a 55.65217 % accuracy rate.
 56.621 % of daily movements have been correctly predicted.
 
