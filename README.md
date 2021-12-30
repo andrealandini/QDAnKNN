@@ -8,14 +8,14 @@ thus minimising the standard deviation of the spot position by shorting an adequ
 Output:
 ________________________________________________________________________________________________________________________ 
 
-*QDA Model for Direction~Lag1 + Lag2 on Nasdaq*
+*QDA Model for Direction~Lag1 + Lag2 on Nasdaq* > 
 The confusion matrix suggests that on days when it predicts an increase in the market, it has a 55.65217 % accuracy rate.
 56.621 % of daily movements have been correctly predicted.
 
 
 ________________________________________________________________________________________________________________________
 
-*KNN Model for Direction~Lag1 + Lag2 on Nasdaq*
+*KNN Model for Direction~Lag1 + Lag2 on Nasdaq* > 
 The confusion matrix suggests that on days when it predicts an increase in the market, it has a 61.78862 % accuracy rate.
 55.65217 % of daily movements have been correctly predicted.
 
@@ -23,7 +23,7 @@ The confusion matrix suggests that on days when it predicts an increase in the m
 
 ________________________________________________________________________________________________________________________
 
-*QDA Model for Direction~Lag1 + Lag2 on Long Short Portfolio*
+*QDA Model for Direction~Lag1 + Lag2 on Long Short Portfolio* > 
 The confusion matrix suggests that on days when it predicts an increase in the market, it has a 26.19048 % accuracy rate.
 47.16157 % of daily movements have been correctly predicted.
 
@@ -31,7 +31,7 @@ The confusion matrix suggests that on days when it predicts an increase in the m
 
 ________________________________________________________________________________________________________________________
 
-*KNN Model for Direction~Lag1 + Lag2 on Long Short Portfolio*
+*KNN Model for Direction~Lag1 + Lag2 on Long Short Portfolio* > 
 The confusion matrix suggests that on days when it predicts an increase in the market, it has a 44.79167 % accuracy rate.
 51.52838 % of daily movements have been correctly predicted.
 
